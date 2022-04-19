@@ -3,7 +3,7 @@
   <groupId>test3</groupId>
   <artifactId>test3</artifactId>
   <version>0.0.1-test3</version>
-  <packaging>pom</packaging>
+  <packaging>war</packaging>
   
    <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
